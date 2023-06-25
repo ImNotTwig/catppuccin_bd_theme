@@ -9,10 +9,10 @@
  * **/
 
 @import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-pink.theme.css");
-@import url(https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap);
 
 :root {
---Chat-Font-Used: 'IBM Plex Mono', normal;
+--Chat-Font-Used: 'Open Sans', normal;
 --Chat-Font-Size: 10px;
 }
 :not([class="hljs"]):not(code){
