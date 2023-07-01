@@ -9,10 +9,10 @@
  * **/
 
 @import url('https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css');
-@import url(https://fonts.googleapis.com/css2?family=Tinos&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap);
 
 :root {
-  --Chat-Font-Used: 'Tinos', serif;
+  --Chat-Font-Used: 'JetBrains Mono', Mono;
   --Chat-Font-Size: 10px;
 }
 
